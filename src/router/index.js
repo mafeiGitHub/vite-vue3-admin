@@ -5,7 +5,7 @@ import Login from '@/views/login/index.vue';
 
 const routes = [
   // { path: '/', component: HomeView },
-  { path: '/login', component: Login },
+  // { path: '/login', component: Login },
 ]
 
 const router = createRouter({
